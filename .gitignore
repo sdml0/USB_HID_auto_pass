@@ -1,0 +1,16 @@
+*.zip
+*.o
+*.d
+*.elf
+*.hex
+*.bin
+*.pcapng
+*.uvguix.*
+*.pdf
+EventRecorderStub.scvd
+build/*
+cppcheck-report.txt
+DebugConfig
+Objects
+Listings
+HID Tool
